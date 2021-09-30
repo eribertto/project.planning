@@ -17,4 +17,5 @@ Further reading
 For further learning on best practices for developing a WBS, check out this article:
 
 How to Create a Work Breakdown Structure and Why You Should
+https://www.lucidchart.com/blog/how-to-create-a-work-breakdown-structure-and-why-you-should
 
