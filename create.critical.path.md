@@ -184,3 +184,6 @@ https://www.workamajig.com/blog/critical-path-method
 Critical Path Method: A Project Management Essential
 https://www.wrike.com/blog/critical-path-is-easy-as-123/
 
+Good youtube presentation of forward/backward pass CPM 
+https://www.youtube.com/watch?v=4oDLMs11Exs
+
