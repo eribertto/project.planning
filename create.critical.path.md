@@ -179,6 +179,8 @@ The backward pass is the opposite—start with the final task or milestone and m
 You can read more about each of these concepts and critical path calculation methods in the following articles:
 
 How to Use the Critical Path Method for Complete Beginners
+https://www.workamajig.com/blog/critical-path-method
 
 Critical Path Method: A Project Management Essential
+https://www.wrike.com/blog/critical-path-is-easy-as-123/
 
