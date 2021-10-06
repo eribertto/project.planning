@@ -23,12 +23,16 @@ Spreadsheet templates
 It is helpful to try online tutorials so that you can get used to the different functionalities and user interfaces of each tool. We have included links to some project plan templates below:
 
 Smartsheet: Project Plan Templates for Microsoft Word
+https://www.smartsheet.com/content/project-plan-templates
 
 Smartsheet: Project Plan Templates for Google Sheets
+https://www.smartsheet.com/free-google-docs-templates-google-timeline-templates
 
 Google Project Plan Timeline Template
+https://docs.google.com/spreadsheets/d/1TauRTFipsWDWGqaw6tmqJeknKhVI5IjR5jJvBfVzfGw/copy
 
 Microsoft Gantt Chart Template
+https://templates.office.com/en-us/simple-gantt-chart-tm16400962
 
 Work management tools
 There are many work management tool options available for you to utilize when planning your project. We covered some of these in previous videos, but as a refresher, it is important to keep in mind that every company, project manager, and customer has a work management tool preference. You may come across tools like Smartsheet, Asana, Jira, Trello, and many more. These tools allow for collaboration and communication at a task level. 
