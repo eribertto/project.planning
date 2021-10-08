@@ -4,7 +4,7 @@ manager will create a nondisclosure agreement, otherwise known as an NDA. In the
 selecting phase, a project manager creates a request for proposal, or an RFP. In
 the contracting phase, a statement of work or an SOW is created. Now let's learn
 more about these acronyms and documents. The first important document is a
-nondisclosure agreement, also known as an NDA. NDA is a standard within a lot of
+nondisclosure agreement, also known as an NDA. *NDA* is a standard within a lot of
 companies, and it's best practice to ask external contract workers to sign an
 NDA. The purpose of an NDA is to keep confidential information within the
 organization. So for instance, if a company is using some kind of proprietary
@@ -13,7 +13,7 @@ to ensure that any conversations or information surrounding that technology
 doesn't leak out to competitors or to the public before the company is ready to
 launch. For example, in Project Plant Pals, vendors might be required to sign an
 NDA because the project is new to market and hasn't been made public yet. Then
-we have a request for proposal or an RFP, a document that outlines the details
+we have a request for proposal or an *RFP*, a document that outlines the details
 and requirements of an organization's project to be passed on to vendors. RFPs
 are used to solicit bids from vendors so that you can then select which vendor
 might be the best for your project. An RFP is widely used within different
