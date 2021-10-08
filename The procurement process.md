@@ -1,15 +1,15 @@
 While not every single project will require procurement, it's important to be
 prepared for it if and when procurement does come up. How do you get started?
-There are typically five steps that make up the procurement process.  Let's go
+There are typically five steps that make up the *procurement* process.  Let's go
 over them. First is initiating, which is the planning process of defining what
 help you may need outside of your current resources to hit the project goals. In
 this step, you will also make a case for getting extra resources via the
-procurement process. Second is selecting, which entails deciding what supplies
-you need and which vendors you'll go through. The third step is contract
-writing, which is where the contracts are developed, reviewed, and signed. The
-fourth step is control, which is when you make payments, set up logistics and
+procurement process. Second is *selecting*, which entails deciding what supplies
+you need and which vendors you'll go through. The third step is *contract
+writing*, which is where the contracts are developed, reviewed, and signed. The
+fourth step is *control*, which is when you make payments, set up logistics and
 requirements to maintain quality, and ensure the service agreement is being met.
-The fifth and final step is completing, which is where you measure the success
+The fifth and final step is *completing*, which is where you measure the success
 of the procurement. That's a quick overview of the procurement process. This
 high-level cycle of procurement will make more sense as we continue on through
 this course. One thing to note is the procurement process can seem a little
