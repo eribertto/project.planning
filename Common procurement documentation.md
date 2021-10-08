@@ -43,7 +43,7 @@ asking if an RFP has been sent out to vendors yet. It's important to note that
 both the NDA and the RFP are fixed and remain the same throughout the process.
 This means that there's not a lot of room for customization, and it won't be
 changed once it's submitted. Lastly, there's a third important document called a
-Statement of Work, or an SOW. An SOW is sent after the vendor is selected and
+Statement of Work, or an *SOW*. An SOW is sent after the vendor is selected and
 evolves as the project goes on. We'll continue discussing these concepts and
 further explore the importance of a statement of work in the next video. I'll
 see you there.
