@@ -11,5 +11,8 @@ Woman looking through binoculars
 How to recognize an opportunity
 An opportunity is a potential positive outcome that may bring additional value to a project. You can use the same tools and techniques that you use in risk management—identify, analyze, evaluate, treat, and control—to add potential opportunities to your risk management plan. You need to know what to do if things go wrong, but you should also make plans to seize opportunities. By using techniques such as brainstorming and drawing on project history or prior experience, you can identify potential opportunities and outline how you will take advantage of them if they occur.
 
-As a project manager, you should always be on the lookout for potential opportunities when developing your risk management plan. Review the following article for further information on using risk management strategies to identify and take advantage of opportunities that may occur during your projects:  Effective strategies for exploiting opportunities
+As a project manager, you should always be on the lookout for potential opportunities when developing your risk management plan. Review the following article for further information on using risk management strategies to identify and take advantage of opportunities that may occur during your projects:  
+
+Effective strategies for exploiting opportunities
+https://www.pmi.org/learning/library/effective-strategies-exploiting-opportunities-7947
 
