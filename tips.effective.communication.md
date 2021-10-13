@@ -5,8 +5,12 @@ In the previous videos, you learned that communication is key to any successful 
 As the project manager, it is important to develop a communication plan for the duration of your project. Good communication helps your project run smoothly, leads to better outcomes, and supports a healthy team culture. You can use these four tips to foster effective communication within your team: 
 
 
+Graphic of four tips for effective communication that are listed in reading:
+ 1. Recognize and understand individual differences  
+ 2. Brainstorm and craft the appropriate message 
+ 3. Deliver your message 
+ 4. Obtain feedback and incorporate that feedback going forward
 
-Graphic of four tips for effective communication that are listed in readingGraphic of four tips for effective communication that are listed in reading: 1. Recognize and understand individual differences  2. Brainstorm and craft the appropriate message 3. Deliver your message 4. Obtain feedback and incorporate that feedback going forward
 Recognize and understand individual differences
 You can encourage open, inclusive communication by:
 
