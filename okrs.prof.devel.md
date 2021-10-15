@@ -115,8 +115,11 @@ Creating OKRs can be an empowering way to take ownership of your goals and find 
 For more on writing and refining your OKRs, check out these resources:
 
 Using OKRs for Professional Development
+https://www.whatmatters.com/articles/professional-development-okr-examples/
+
 
 John Doerr’s Ted Talk: Why the secret to success is setting the right goals
+https://youtu.be/L4N1q4RNi9I
 
 OKRs and SMART goals: What's the difference?
-
+https://www.whatmatters.com/resources/okrs-smart-goals-difference-between/
